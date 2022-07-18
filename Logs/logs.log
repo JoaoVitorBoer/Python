@@ -1,0 +1,5 @@
+2022-07-18 18:28:20,028 :: INFO :: main.py :: 38 :: Random Numero Gerado
+2022-07-18 18:28:37,358 :: INFO :: main.py :: 53 :: Usuario advinhou o numero após 10 tentativas
+2022-07-18 18:28:48,807 :: CRITICAL :: main.py :: 34 :: Erro Critico, valor não numérico
+2022-07-18 18:30:01,910 :: ERROR :: main.py :: 51 :: Usuario informou valor não numérico
+2022-07-18 18:30:11,542 :: INFO :: main.py :: 57 :: Usuario advinhou o numero após 9 tentativas
